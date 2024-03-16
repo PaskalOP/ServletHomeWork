@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35c3cc5c-068d-4176-918d-b4e67a43fff5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/WebApp/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/servletHomeWork/FilterTimezone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/servletHomeWork/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/servletHomeWork/TimeServlet.java" afterDir="false" />
-    </list>
+    <list default="true" id="35c3cc5c-068d-4176-918d-b4e67a43fff5" name="Changes" comment="Home work servlets" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +62,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/mac/IdeaProjects/ServletHomeWork",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -130,9 +116,6 @@
       <option name="catalinaBase" value="$USER_HOME$/apache-tomcat-10.1.19/webapps" />
       <option name="contextPath" value="/1" />
       <option name="docBase" value="$PROJECT_DIR$/src" />
-      <option name="envOptions">
-        <map />
-      </option>
       <option name="extraClassPath" value="" />
       <option name="tomcatInfo">
         <TomcatInfo>
@@ -168,7 +151,36 @@
       <option name="presentableId" value="Default" />
       <updated>1710243332091</updated>
     </task>
+    <task id="LOCAL-00001" summary="Home work servlets">
+      <option name="closed" value="true" />
+      <created>1710612573479</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710612573479</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Home work servlets">
+      <option name="closed" value="true" />
+      <created>1710612591428</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710612591428</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Home work servlets">
+      <option name="closed" value="true" />
+      <created>1710612669551</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710612669551</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Home work servlets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Home work servlets" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
