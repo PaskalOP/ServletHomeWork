@@ -1,0 +1,11 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹üåÖ8ºŸ©Ãä1
+t
+java:S2259"R"NullPointerException" will be thrown when invoking method "validationTimezone()".(ÔõËöúÿÿÿÿ8™ª¿Ãä1
+]	java:S125"<This block of commented-out lines of code should be removed.(¾³ºÊøÿÿÿÿ8°ª¿Ãä1
+c
+java:S1126%"AReplace this if-then-else statement by a single return statement.(á€úÿÿÿÿ8Ê ©Ãä1
+^
+java:S1126."AReplace this if-then-else statement by a single return statement.(ßø‰ã8Í ©Ãä1
+Q
+java:S1144,"4Remove this unused private "isValidTimezone" method.(ÖëÔô8¾ª¿Ãä1
