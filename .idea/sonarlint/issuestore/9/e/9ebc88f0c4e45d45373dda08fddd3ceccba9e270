@@ -1,4 +1,15 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹üåÖ8ĞØçÀä1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹üåÖ8»õ«ãæ1
+L
+java:S1948"0Make "templateEngine" transient or serializable.(‚º»8Ã˜Œäæ1
+]	java:S125:"<This block of commented-out lines of code should be removed.(œÒñˆüÿÿÿÿ8ÓßŒäæ1
+W
+java:S1128":Remove this unused import 'jakarta.servlet.ServletConfig'.(É‘8Ñóéãæ1
 ^
-java:S1128"ARemove this unused import 'jakarta.servlet.annotation.WebFilter'.(‘ªèà8ÒÙçÀä1
+java:S1128"ARemove this unused import 'jakarta.servlet.annotation.WebFilter'.(‘ªèà8Òóéãæ1
+s
+java:S1128"QRemove this unused import 'org.thymeleaf.web.servlet.JavaxServletWebApplication'.(‚Í±Éşÿÿÿÿ8Óóéãæ1
+[
+java:S1128">Remove this unused import 'org.thymeleaf.web.IWebApplication'.(äæ¢ó8Óóéãæ1
+M
+java:S1128"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ8ÖßŒäæ1
